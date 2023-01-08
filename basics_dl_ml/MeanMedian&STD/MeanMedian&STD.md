@@ -66,6 +66,20 @@ Standard deviation = sqrt(1.58) = 1.25
 So the standard deviation of this dataset is 1.25.
 ```
 
+## Difference between variance & standard deviation
+
+* The variance of a dataset is the average squared deviation of the values from the mean.
+* It is calculated by summing the squared differences between each value and the mean, and dividing the result by the number of values in the dataset.
+* The variance is often used to describe the dispersion of a dataset because it is sensitive to outliers (extreme values) in the dataset.
+
+* `The standard deviation is the square root of the variance.`
+* It is a more intuitive measure of dispersion because it is expressed in the same units as the original data.
+* The standard deviation is the `average distance of the values from the mean`.
+
+> In summary, the variance is the average squared deviation of the values from the mean,
+while the standard deviation is the average distance of the values from the mean.
+The standard deviation is the square root of the variance.
+
 ## Lessons Learned
 
 The mean, median, and standard deviation can be used to describe the central tendency and dispersion of a dataset.
