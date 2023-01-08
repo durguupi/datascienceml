@@ -55,3 +55,12 @@ In addition to understanding the relationships between different variables, the 
 
 * `Multicolline` arity occurs when two or more variables are highly correlated with each other, which can make it difficult to accurately interpret the results of a machine learning model.
 * Identifying `multicollinearity` and addressing it appropriately can help improve the accuracy and interpretability of machine learning models.
+
+## Important Pointers
+
+| Question | Answer     |
+| :-------- | :------- |
+| `Purpose of Correlation coefficient:` | **How much do all the data points collectively deviate from the means**|
+| `Mathematically how it achieves this:`| **Adds all the differences from the mean in standardised way**|
+| `Method Actually Mean:`               | **Least Square regression line**|
+| `Least Squares:`                      | **Minimises the difference sum of all the squares**|
