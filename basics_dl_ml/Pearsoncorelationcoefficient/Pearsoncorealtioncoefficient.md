@@ -47,7 +47,8 @@ x̄ and ȳ are the means of the x and y variables,
 ```css
 For example, if there is a strong positive correlation between a person's height and their weight,
 it might be useful to include both variables as features in a machine learning model that predicts a person's weight.
-On the other hand, if there is a strong negative correlation between a person's height and their weight, it might not be as useful to include both variables as features in the model.
+On the other hand, if there is a strong negative correlation between a person's height and their weight, 
+it might not be as useful to include both variables as features in the model.
 ```
 
 In addition to understanding the relationships between different variables, the correlation coefficient can also be used to identify multicollinearity in a dataset.
